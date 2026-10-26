@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+venv/
+ENV/
+.vscode/
+.idea/
+healthcare_fraud_detection_app/
+.DS_Store
